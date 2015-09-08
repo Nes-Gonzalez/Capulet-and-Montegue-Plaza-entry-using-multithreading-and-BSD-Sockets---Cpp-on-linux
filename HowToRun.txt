@@ -1,0 +1,25 @@
+To run server, go to Server directory ../Assignment2/Server and use 
+following commands
+
+	
+
+	make
+	
+	./Server
+
+ 
+
+to run Client, go to Client directory ../Assignment2/Client and use 
+following commands
+
+	
+
+	make
+	
+	./Client<input.txt
+
+ 
+
+run server before client. Close server with kill command
+The client will print out the requests made by each Montague or Capulet
+The server will print out the plaza's handling of each request.
